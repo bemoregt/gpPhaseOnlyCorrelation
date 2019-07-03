@@ -21,5 +21,6 @@ Phase Only Correlation for Openframeworks C++ using ofxCv
 - Color Graphics
 - Realtime VideoFile POC
 - Realtime WebCam POC
+- Post processing in Correaltion space by native POC implementation !!
 
 
